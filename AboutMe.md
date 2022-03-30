@@ -2,7 +2,6 @@
   <h1> About Me </h1>
   <p> My name is <strong>Sammy Sekhon</strong>, I am a full time student at George Mason University currently pursuing a Bachelor Science degree in Computer Engineering.
   <h4> A few hobbies of mine include:</h4>
-  <img align="right" src="https://wallpapers.com/images/high/grand-blue-evil-look-5iwnfhga6lhb8vkw.jpg">
   <ul>
     <li>Watching and playing American Football</li> 
     <li>Watching anime</li>
